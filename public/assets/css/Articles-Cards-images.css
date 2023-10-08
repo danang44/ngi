@@ -1,0 +1,194 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+div .butt-contact {
+}
+
+.btn-contact {
+  border-radius: 100px;
+  padding: 10px 20px;
+  background-color: white;
+  color: orange;
+  font-family: SF Pro DIsplay;
+  border: solid orange;
+}
+
+.navbar {
+  border-radius: 100px;
+  padding: 20px;
+  background-color: #ffffff;
+  margin-top: 18px;
+  margin-left: 20px;
+  margin-right: 20px;
+  box-shadow: 0px 0px 12px #555f6d;
+}
+
+.navbar-nav {
+  color: var(--content-secondary, #555F6D);
+  font-family: SF Pro Display;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+#navcol-3 {
+}
+
+div {
+}
+
+.comp-prof {
+  display: flex;
+  background: linear-gradient(90deg, #FF8515 0%, #EB3D00 100%);
+  border-radius: 20px;
+}
+
+.img-brochure {
+}
+
+.butt-download {
+  border-radius: 100px;
+  border: none;
+  padding: 20px;
+  background: white;
+  color: #eb3d00;
+  font-family: SF Pro Display;
+  font-size: 20px;
+  margin-top: 40px;
+}
+
+.text-desrip-port {
+  font-size: 30px;
+  color: white;
+  font-family: manrope;
+}
+
+h4 {
+  font-family: SF Pro Display;
+  color: white;
+  font-size: 40px;
+}
+
+.tex-des-port {
+}
+
+.tex-des-port {
+  font-size: 25px;
+  font-family: manrope;
+}
+
+.tex-des-list {
+  font-size: 25px;
+}
+
+.detail-portofolio {
+  padding-bottom: 40px;
+}
+
+.more-button {
+  font-family: SF Pro Display;
+  padding: 10px;
+  background: white;
+  border: none;
+  box-shadow: 0 0 12px #c2c2c2;
+  border-radius: 100px;
+}
+
+.detail-artikel1 {
+  display: flex;
+  font-family: Manrope;
+  color: gray;
+  justify-content: space-between!important;
+}
+
+.font-weight-bold {
+  font-family: SF Pro Display;
+  color: black;
+}
+
+.card-text1 {
+  font-family: Manrope;
+  color: gray;
+  font-size: 20px;
+}
+
+.card1 {
+  border-radius: 20px;
+}
+
+.tag_type {
+  background: #E9ECEF;
+  border-radius: 100px;
+  width: 100px;
+  padding: 5px;
+  font-family: Manrope;
+}
+
+.title_card1 {
+  display: flex;
+}
+
+div {
+}
+
+.detail-post-news {
+  display: flex;
+  font-family: Manrope;
+  color: gray;
+}
+
+.card_news1 {
+  display: flex;
+  background: #ffffff;
+  border-radius: 30px;
+}
+
+.download-desc {
+  font-size: 25px;
+}
+
+.download-title {
+  font-size: 40px;
+  font-family: SF Pro Display;
+}
+
+.butt-type-select {
+  margin: 16px;
+}
+
+.copany-contact {
+  display: flex;
+}
+
+.card-cont {
+  border-radius: 20px;
+  background: #ffffff;
+  padding: 20px;
+  width: 600px;
+  margin: 10px;
+  overflow: hidden;
+}
+
+.company-cont {
+  padding: 80px;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.button-slide {
+  border-radius: 100px;
+  border: 1px solid var(--action-border-outline, #E9ECEF);
+  background: var(--surface-field, #F5F7F9);
+  padding: 12px 24px;
+}
+
+.text-page-monitoring {
+  color: var(--content-tertiary, #7E8B99);
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+

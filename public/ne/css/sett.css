@@ -1,0 +1,84 @@
+/*BUTTON ADDITIONAL*/
+.btn-new{
+    border: solid 1px orangered;
+    transition: 0.5s;
+    border-radius: 100px;
+    color: orangered;
+  }
+
+  .btn-new:hover{
+    color: white;
+    background-image: linear-gradient(90deg, #ff932d 0%, #ff4400 100%);
+    transition: 0.5s;
+  }
+
+  .content-page{
+    padding-top: 10rem;
+}
+
+.no-at{
+    text-decoration: none;
+    color: gray;
+    transition: 0.5s;
+}
+
+.no-at:hover{
+    text-decoration: none;
+    color: orangered;
+    transition: 0.5s;
+}
+
+/*ATRIBUT*/
+
+h1{
+    font-family: 'Overpass', sans-serif;
+    font-size: 45px;
+}
+
+p{
+    font-family: "Raleway", sans-serif;
+}
+
+.f-s{
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+}
+
+footer {
+    color: gray;
+    font-size: 15px;
+    font-style: normal;
+    flex-wrap: wrap;
+    padding-top: 10rem;
+  }
+
+.cd__main{
+    background: white;
+    align-items: center
+  }
+
+  .cd__intro p{
+     font-size: 20px;
+  }
+
+  .cd__main{
+    background: #fff;
+    padding: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+  }
+  .cd__main{
+      display: flex;
+      width: 100%;
+  }
+
+  @media only screen and (min-width: 1360px){
+      .cd__main{
+        max-width: 1280px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 24px;
+      }
+  }
